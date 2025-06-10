@@ -1,2 +1,3 @@
 # dominant-language
-Tells you what % of given text is each language and writing direction.
+https://whaleslovesmash.github.io/dominant-language/
+Tells you percentage breakdowns of which languages and writing directions you enter.
